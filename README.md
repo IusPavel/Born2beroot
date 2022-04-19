@@ -1,2 +1,2 @@
 # Born2beroot
-Simple bash script
+This simple bash script born to show basic skills. -_-
